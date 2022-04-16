@@ -18,7 +18,7 @@ Bricks will redirect automatically to http://<your_ip>/bricks/config/.
 Fill in the configuration details:
 	Database username: root
 	Database password: root in uWAMP. Keep it blank in the xase of XAMPP
-	Database name: bricks
+	Database name: bricks 
 	Database host: localhost
 	Show executed commands: checked by default
 	
